@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "name": "starbot",
+  "version": "1.0.0",
+  "description": "StarBot Package",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarlightChan/StarBot.git"
+  },
+  "author": "Starlight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StarlightChan/StarBot/issues"
+  },
+  "homepage": "https://github.com/StarlightChan/StarBot#readme"
+}
