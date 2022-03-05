@@ -1,8 +1,12 @@
 {
-    "t1":{
-
+    "public":{
+        "StarWow":{
+            "name":"StarWow",
+            "id":"943613022067376189",
+            "location":"Starlight's Magic Server"
+        }
     },
-    "t2":{
+    "private":{
         
     }
 }

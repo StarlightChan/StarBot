@@ -1,5 +1,5 @@
 exports.run = (client, message, args) => {
-    if(message.author.id === client.config.owner_id){
+    if(message.author.id != client.config.owner_id){
         message.reply("You can not use this command!");
         return;
     }
